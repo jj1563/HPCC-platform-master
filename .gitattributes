@@ -1,0 +1,14 @@
+*               text=auto
+*.sh            eol=lf
+*.bat           eol=crlf
+*.jpg           -text
+*.gif           -text
+*.png           -text
+*.jpg           -text
+*.swf           -text
+*.ico           -text
+*.psd           -text
+*.doc           -text
+*.mk            -text
+*.patch         -text
+ecl/regress/crmultiline*.ecl eol=crlf
